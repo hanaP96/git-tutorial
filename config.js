@@ -1,2 +1,2 @@
 console.log('iconfig.js');
-console.log('control version2');
+console.log('control version3');
