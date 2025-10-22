@@ -1,3 +1,3 @@
 console.log('index.js');
-console.log('control version3');
+console.log('control version1');
 
